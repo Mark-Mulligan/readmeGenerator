@@ -4,8 +4,6 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const readmeGen = require('./utils/generateMarkdown');
 
 //Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-
-
 init();
 
 // array of questions for user
@@ -88,7 +86,6 @@ function getInfoCreateReadme() {
         .then((response) => {
             const liscenseInfo = getBadgeAndLink(response.license);
             const doc = generateMarkdown(response, liscenseInfo);
-            console.log(doc);
             writeToFile('README.md', doc);
         });
 }

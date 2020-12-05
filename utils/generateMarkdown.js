@@ -40,8 +40,7 @@ function generateMarkdown(data, licenseInfo) {
   ${data.tests}
 
   ## Questions
-  [My Github](https://github.com/${data.githubUsername})
-  ${data.email}
+  [My Github](https://github.com/${data.githubUsername}) || ${data.email}
 
   #### How to Contact Me
   ${data.howToContact}
