@@ -9,7 +9,7 @@ This project was built using node.js and includes the npm package inquirer to al
   
 * [Installation](#installation)
 * [Usage](#usage)
-* [Video Demo](#video)
+* [Walkthrough](#walkthrough)
 * [License](#license)
 * [Questions](#questions)
   
@@ -51,10 +51,10 @@ Answer all the questions that are prompted to you in the command line.
 After all the questions have been answered, a readme file will be generated called 'myReadme.md'.
 You can then move this file to wherever you need to use the readme.  
 
-![Walkthrough Demo](./images/projectScreenshot.png)
+![Project Screenshot](./images/projectScreenshot.png)
 
-## Video Demo 
-[Walkthrough Demo](https://www.youtube.com/watch?v=j_06LvDGsUg&feature=youtu.be)
+## Walkthrough 
+[Video Demo](https://www.youtube.com/watch?v=j_06LvDGsUg&feature=youtu.be)
 
 ## License
 This project is liscensed under a/an Apache license.
