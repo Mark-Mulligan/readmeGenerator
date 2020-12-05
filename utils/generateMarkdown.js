@@ -7,7 +7,7 @@ function generateMarkdown(data, licenseInfo) {
   ## Description 
   ${data.description}
   
-  ## Table of Contents (Optional)
+  ## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
@@ -30,8 +30,8 @@ function generateMarkdown(data, licenseInfo) {
   ## License
   This project is liscensed under a/an ${data.license} license.
 
-  For more info, check see the link below:
-  (${licenseInfo.link})
+  For more info, checkout this link:
+  ${licenseInfo.link}
   
   ## Contributing
   ${data.contributing}
@@ -40,7 +40,7 @@ function generateMarkdown(data, licenseInfo) {
   ${data.tests}
 
   ## Questions
-  ${data.githubUsername}
+  [My Github](https://github.com/${data.githubUsername})
   ${data.email}
 
   #### How to Contact Me
