@@ -48,7 +48,7 @@ After installing the project and all the required npm packages, run the project 
 node index.js
 ```
 Answer all the questions that are prompted to you in the command line.  
-After all the questions have been answered, a readme file will be generated called 'myReadme.md'.
+After all the questions have been answered, a readme file will be generated called 'newREADME.md'.
 You can then move this file to wherever you need to use the readme. 
 
 ![Project Screenshot](./images/projectScreenshot.png)
