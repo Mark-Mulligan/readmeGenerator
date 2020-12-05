@@ -26,13 +26,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   
   ## Usage 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper.
 
   
   ## Credits
-  There are no other contributors to this project.
+  There were no other contributors.
 
   
   ## License
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   
   ## Tests
-  Currently, no tests have been developed for this project.
+  There are currently  no tests for this project.
 
 
   ## Questions
