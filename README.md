@@ -52,6 +52,9 @@ After all the questions have been answered, a readme file will be generated call
 You can then move this file to wherever you need to use the readme.  
 
 ## Video Demo 
+![Walkthrough Demo](./images/projectScreenshot.png)
+Format: ![Project Screenshot](https://www.youtube.com/watch?v=j_06LvDGsUg&feature=youtu.be)
+
 [Walkthrough Demo](https://www.youtube.com/watch?v=j_06LvDGsUg&feature=youtu.be)
 
 ## License
