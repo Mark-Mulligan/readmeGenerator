@@ -9,8 +9,8 @@ This project was built using node.js and includes the npm package inquirer to al
   
 * [Installation](#installation)
 * [Usage](#usage)
+* [Video Demo](#video)
 * [License](#license)
-* [Video Demo](#video_demo)
 * [Questions](#questions)
   
   
