@@ -49,7 +49,10 @@ node index.js
 ```
 Answer all the questions that are prompted to you in the command line.  
 After all the questions have been answered, a readme file will be generated called 'myReadme.md'.
-You can then move this file to wherever you need to use the readme.  
+You can then move this file to wherever you need to use the readme. 
+
+Example Readme generated using this project:
+[click here](./newREADME.md)
 
 ![Project Screenshot](./images/projectScreenshot.png)
 

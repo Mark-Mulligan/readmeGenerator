@@ -85,7 +85,7 @@ function getInfoCreateReadme() {
         .then((response) => {
             const liscenseInfo = getBadgeAndLink(response.license);
             const doc = generateMarkdown(response, liscenseInfo);
-            writeToFile('myReadme.md', doc);
+            writeToFile('newREADME.md', doc);
         });
 }
 
