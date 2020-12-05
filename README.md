@@ -51,13 +51,13 @@ Answer all the questions that are prompted to you in the command line.
 After all the questions have been answered, a readme file will be generated called 'myReadme.md'.
 You can then move this file to wherever you need to use the readme. 
 
-Example Readme generated using this project:
-[click here](./newREADME.md)
-
 ![Project Screenshot](./images/projectScreenshot.png)
 
 ## Walkthrough 
 [Video Demo](https://www.youtube.com/watch?v=j_06LvDGsUg&feature=youtu.be)
+
+Example Readme generated using this project:
+[click here](./newREADME.md)
 
 ## License
 This project is liscensed under an Apache license.
