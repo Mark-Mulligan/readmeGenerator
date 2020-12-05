@@ -43,7 +43,7 @@ function generateMarkdown(data, licenseInfo) {
   ${data.githubUsername}
   ${data.email}
 
-  ###How to Contact Me
+  #### How to Contact Me
   ${data.howToContact}
   
   © ${data.name} 2020 All Rights Reserved.
