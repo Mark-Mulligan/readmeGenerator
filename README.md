@@ -57,7 +57,7 @@ You can then move this file to wherever you need to use the readme.
 [Video Demo](https://www.youtube.com/watch?v=j_06LvDGsUg&feature=youtu.be)
 
 ## License
-This project is liscensed under a/an Apache license.
+This project is liscensed under an Apache license.
 
 For more info, checkout this link:
 https://opensource.org/licenses/Apache-2.0
