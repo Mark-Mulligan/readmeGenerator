@@ -1,39 +1,57 @@
-# Test
+# Github Readme Generator
 
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper..
+  This project was built using node.js and includes the npm package inquirer to allow the user to interact with the program via the command line.  The goal of this project was to allow the user to generate Github Readmes easily through the command line.  The program generates a new file that is already formated and includes all the data the user inputed.
 
   
   ## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   
   ## Installation
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper
+  * This project requires node.js so make sure that is installed on your system before doing anything else.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper..
+  Step 1: Navigate to the directory you want to store the project. Clone this your repository to your local computer using the command below. 
+  ```bash
+  git clone https://github.com/MarkMulligan97/readmeGenerator.git
+  ```
 
-  
+  Step 2: Use the command line to navigate to the directory that you cloned the project.
+  Example:
+  ```bash
+  cd Desktop/readmeGenerator
+  ```
+
+  Step 3: Install npm in the project directory.
+  ```bash
+  npm init
+  ```
+
+  Step 4: Install the npm package inquirer
+  ```bash
+  npm install inquirer
+  ```
+
+  Step 5: Run the program using node using the command below.
+  ```bash
+  node index.js
+  ```
   ## Usage 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper.
+  After installing the project and all the required npm packages, run the project in your command line.
+  ```bash
+  node index.js
+  ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper.
-
-  
-  ## Credits
-  There were no other contributors.
-
+  Answer all the questions that are prompted to you in the command line.  
+  After all the questions have been answered, a readme file will be generated called 'myReadme.md'.
+  You can then move this file to wherever you need to use the readme.  
   
   ## License
   This project is liscensed under a/an Apache license.
@@ -42,21 +60,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   https://opensource.org/licenses/Apache-2.0
   
   ## Contributing
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper.
-
   
-  ## Tests
-  There are currently  no tests for this project.
-
 
   ## Questions
   [My Github](https://github.com/MarkMulligan97) || mark.mulligan.jr1@gmail.com
 
   #### How to Contact Me
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem sed risus ultricies tristique. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Et molestie ac feugiat sed lectus. Sed odio morbi quis commodo odio aenean sed adipiscing. Habitant morbi tristique senectus et netus et malesuada. Diam sollicitudin tempor id eu. Lectus sit amet est placerat. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Eget nunc lobortis mattis aliquam faucibus. Risus pretium quam vulputate dignissim suspendisse in est ante. Mollis nunc sed id semper risus in hendrerit. Tristique nulla aliquet enim tortor at auctor urna nunc. Eget nunc scelerisque viverra mauris in aliquam sem. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Gravida neque convallis a cras semper auctor. Purus in mollis nunc sed id semper.
+  Feel free to reach out to me if you have any questions about this project.  You can email me using the email listed above or can go to my github page to view my other projects and portfolio.
 
-  
   © Mark Mulligan 2020 All Rights Reserved.
 
